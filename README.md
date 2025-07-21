@@ -27,3 +27,8 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-jesu&show_icons=true&theme=radical)
+---
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=dev-jesu&style=flat-square&color=blue)
+
