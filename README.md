@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jesu!
 
-I'm a developer passionate about solving problems and building cool things.
-
+💻 I'm a developer passionate about solving problems and building cool things.
+🚀 Always curious and eager to explore new tech
 ---
 
 ### 🛠 Tech Stack:
@@ -18,7 +18,7 @@ I'm a developer passionate about solving problems and building cool things.
   <a href="sjesuantonyraj@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jesu-antony-raj-s/" target="_blank">
+  <a href="https://www.linkedin.com/in/jesu-antony-raj-s-/" target="_blank">
 
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
