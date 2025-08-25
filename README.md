@@ -30,5 +30,5 @@
 ---
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=dev-jesu&style=flat-square&color=blue)
+
 
