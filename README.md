@@ -1,11 +1,11 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Jesu%20Antony%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,100:243B55&text=Jesu%20Antony%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;FastAPI+%7C+Java+%7C+Python"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Developer;FastAPI+%7C+Java+%7C+Python;Learning+Docker+%26+Cloud;Building+Scalable+Backend+Systems"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 💻 Computer Science Engineering student passionate about **Backend Development**
 
@@ -28,26 +28,29 @@
 
 ☁️ Learning **Docker, CI/CD pipelines, and AWS**
 
-🚀 Interested in building **scalable backend systems and infrastructure**
+🚀 Interested in building **scalable backend systems**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="70"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,docker,git,linux,aws,jenkins&perline=8"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🌌 3D Contribution Skyline
+
+<p align="center">
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=dev-jesu&theme=github_dark"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://github.com/dev-jesu/dev-jesu/blob/output/github-contribution-grid-snake-dark.svg"/>
@@ -55,7 +58,7 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -72,9 +75,9 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dev-jesu&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=dev-jesu&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
 </p>
