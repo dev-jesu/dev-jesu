@@ -42,14 +42,6 @@
 
 ---
 
-# 🌌 3D Contribution Skyline
-
-<p align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=dev-jesu&theme=github_dark"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
